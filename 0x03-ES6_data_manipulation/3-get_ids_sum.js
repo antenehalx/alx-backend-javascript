@@ -1,3 +1,6 @@
-export default function getStudentsByLocation(students, city) {
-  return students.filter((student) => student.location === city);
+import getListStudentIds from './1-get_list_student_ids';
+
+export default function getStudentIdsSum(students) {
+  const ids = getListStudentIds(students);
+  return ids.reduce((a, b) => a + b);
 }
