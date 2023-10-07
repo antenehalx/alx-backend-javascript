@@ -4,22 +4,8 @@
 
   <div data-react-class="projects/ProjectMetadata" data-react-props="{&quot;metadata&quot;:{&quot;author&quot;:&quot;Johann Kerbrat, Engineering Manager at Uber Works&quot;,&quot;weight&quot;:1,&quot;correction&quot;:{&quot;released&quot;:true,&quot;requires_auto_correction&quot;:false,&quot;requires_manual_correction&quot;:true},&quot;bpi&quot;:{&quot;current&quot;:false,&quot;in_second_deadline&quot;:false,&quot;starts_at&quot;:&quot;2023-10-04T06:00:00.000+03:00&quot;,&quot;ends_at&quot;:&quot;2023-10-05T06:00:00.000+03:00&quot;,&quot;second_deadline_at&quot;:&quot;2023-10-07T06:00:00.000+03:00&quot;}}}" data-react-cache-id="projects/ProjectMetadata-0"></div>
 
+  ![Image]("https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231007T121617Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3fb134091996bb387d4f64516ed97b35ad730a917550d4fb0da1c73c1af9e72c");
 
-
-
-    
-
-
-    <div id="project_id" style="display: none" data-project-id="1228"></div>
-
-
-
-      
-
-      
-
-      <div class="panel panel-default" id="project-description">
-  ![Image]("https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231007T121617Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3fb134091996bb387d4f64516ed97b35ad730a917550d4fb0da1c73c1af9e72c")
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
