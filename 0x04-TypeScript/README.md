@@ -19,7 +19,7 @@
       
 
       <div class="panel panel-default" id="project-description">
-  ![Image](img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231007T121617Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3fb134091996bb387d4f64516ed97b35ad730a917550d4fb0da1c73c1af9e72c" alt="" loading='lazy' style="" )
+  ![Image]("https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231007T121617Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3fb134091996bb387d4f64516ed97b35ad730a917550d4fb0da1c73c1af9e72c")
 <h2>Resources</h2>
 
 <p><strong>Read or watch</strong>:</p>
